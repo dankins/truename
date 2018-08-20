@@ -1,0 +1,25 @@
+{
+  "name": "truename",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "1.1.4"
+  },
+  "dependencies": {
+    "apollo-boost": "^0.1.13",
+    "bitcore-lib": "^0.15.0",
+    "ethereumjs-util": "^5.2.0",
+    "graphql": "^0.13.2",
+    "react": "^16.4.2",
+    "react-apollo": "^2.1.11",
+    "react-dom": "^16.4.2",
+    "styled-components": "^3.4.2",
+    "web3": "^1.0.0-beta.35"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
